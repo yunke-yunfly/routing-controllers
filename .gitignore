@@ -48,7 +48,6 @@ out-tsc/
 temp
 cjs
 esm2015
-types
 
 # Files for playing around locally
 playground.ts
